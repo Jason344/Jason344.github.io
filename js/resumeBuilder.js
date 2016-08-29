@@ -1,6 +1,6 @@
 
  bio = {
-	"name": "jason",
+	"name": "Jason",
 	"role": "student",
 	"contacts": {
 		"mobile": "15957111462",
